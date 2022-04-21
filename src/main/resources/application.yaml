@@ -3,7 +3,7 @@ topic:
   partitions-num: 6
   replication-factor: 3
 server:
-  port: 9080
+  port: 8080
 spring:
   kafka:
     bootstrap-servers: pkc-ymrq7.us-east-2.aws.confluent.cloud:9092  # <1>
